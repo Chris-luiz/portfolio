@@ -7,7 +7,7 @@ export const SobreMim = () => {
             <div className='w-screen flex justify-center py-12'>
                 <div className="dark:bg-gray-700 sm:w-2/4 container p-4 shadow rounded-lg flex flex-col items-center sm:flex-row gap-4 border dark:border-blue-400">
 
-                    <img src="profile.jpg" alt="foto de perfil" className='w-72 h-72 object-cover rounded-lg' />
+                    <img src="profile.jpg" alt="foto de perfil" className='w-72 h-72 sm:h-auto object-cover rounded-lg' />
 
                     <div className='flex flex-col p-2'>
                         <Title 
